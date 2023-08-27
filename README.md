@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a **full-stack developer**, I have a strong understanding of the entire web development process, from designing and building frontend user interfaces to implementing backend server-side logic
 <!--
 **aaronhong69/aaronhong69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
